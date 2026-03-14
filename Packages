@@ -6,8 +6,7 @@ Description: Repost of the solid glass theme because the og repo is buggy
 Maintainer: ivintagelover
 Author: ivintagelover
 Section: Theme
-Depends: 
-Filename: debs/com.ivintagelover.solidglassrl.deb
+Filename: ./debs/com.ivintagelover.solidglassrl.deb
 Size: 7370
 MD5sum: c796433027a919881789f2a9ddad0519
 SHA1: 34a7fda188ec4a29420dbd0e9ddeffd0b9028104
