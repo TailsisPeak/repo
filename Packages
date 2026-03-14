@@ -1,7 +1,7 @@
 Package: com.ivintagelover.solidglass
 Name: Solid Glass 2 (Repost)
 Version: 2.1
-Architecture: iphone-os-arm
+Architecture: iphoneos-arm
 Description: Repost of the solid glass theme because the og repo is buggy
 Maintainer: ivintagelover
 Author: ivintagelover
